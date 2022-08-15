@@ -16,11 +16,13 @@
 
 ### 1.  June and December temperature analyses:   
  * June temperature summary statistics table
- * ![image](https://user-images.githubusercontent.com/107505166/184559275-c416444e-1c4a-46fc-8bcc-fea442473505.png)
+  ![image](https://user-images.githubusercontent.com/107505166/184559275-c416444e-1c4a-46fc-8bcc-fea442473505.png)
+
 
     
  * December temperature summary statistics table
- * ![image](https://user-images.githubusercontent.com/107505166/184559933-00bba892-d5b5-4185-939f-dc471b899a06.png)
+ ![image](https://user-images.githubusercontent.com/107505166/184559933-00bba892-d5b5-4185-939f-dc471b899a06.png)
+
 
 ## Results  
      
@@ -35,8 +37,10 @@
  
  * Including rainfall readings in the analysis would be helpful, again, excluding data from the higher-elevation weather stations.   Without filtering the data on the weather stations at sea-level and near the location of the proposed surf shop, it's difficult to see how preciptation may affect surf shop and ice cream business throughout the year.   Currently, without any filtering on the location or the elevation of the weather station, we can see that there is 57% more inches of precipitation in December than in June.
   
-     June Precipitation (inches)        0.13636
-     December Precipitation (inches)    0.216819
+     ###### June Precipitation (inches)        0.13636
+     ###### December Precipitation (inches)    0.216819
+     
+     
 
 * Nothing in the temperature analysis points to any temperature-related barrier to operating the surf shop/ice-cream shop in Oahu year-round.
    
